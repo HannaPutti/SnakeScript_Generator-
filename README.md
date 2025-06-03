@@ -4,7 +4,7 @@ Built using advanced transformer models, it allows anyone — from beginners to 
 Whether you're automating tasks, learning programming, or rapidly prototyping, SnakeScript makes code generation intuitive and effortless.
 Designed for developers, educators, and learners alike, SnakeScript eliminates the barrier between intention and implementation, transforming plain English into production-ready Python scripts.
 
-**🔑 Features**
+**🔑 Features** :-
 
 🧠 Natural Language to Python Code
 Generate clean, executable Python code from English instructions using transformer models like DeepSeek-Coder.
@@ -18,7 +18,7 @@ Professionally designed Gradio UI for real-time interaction.
 📦 Ready for Deployment
 Works on local servers, Colab, or cloud platforms like Render, Railway, or Hugging Face Spaces.
 
-**🧰 Tech Stack**
+**🧰 Tech Stack**  :-
 
 🐍 Python 3.10+
 
